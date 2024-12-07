@@ -1,4 +1,4 @@
-[!Masterhead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)
+(https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)
 <h1 align="center">Hi 👋, I'm Padma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align ="right" alt ="Coding" width="400" src=https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif>
