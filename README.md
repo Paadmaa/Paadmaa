@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Padma-78](https://github.com/Padma-78)
+- 👨‍💻 All of my projects are available at [https://github.com/Paadmaa](https://github.com/Paadmaa)
 
 - 💬 Ask me about **Data Analytics**
 
