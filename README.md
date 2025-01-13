@@ -1,5 +1,3 @@
-![logo](![w8ZJLtJbmuph](https://github.com/user-attachments/assets/cb8850fe-280e-4128-b6e6-8d767b0040cc)
-)
 <h1 align="center">Hi 👋, I'm Padma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align ="right" alt ="Coding" width="400" src=https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif>
